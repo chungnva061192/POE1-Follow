@@ -1,7 +1,38 @@
 [
   {
     "Stats": [
-      17128
+      22726
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Ancient Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Ancient Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17334
     ],
     "Sections": [
       {
@@ -32,7 +63,7 @@
   },
   {
     "Stats": [
-      17126
+      17332
     ],
     "Sections": [
       {
@@ -63,7 +94,7 @@
   },
   {
     "Stats": [
-      17114
+      17320
     ],
     "Sections": [
       {
@@ -94,7 +125,7 @@
   },
   {
     "Stats": [
-      17115
+      17321
     ],
     "Sections": [
       {
@@ -125,7 +156,7 @@
   },
   {
     "Stats": [
-      17122
+      17328
     ],
     "Sections": [
       {
@@ -156,7 +187,7 @@
   },
   {
     "Stats": [
-      15999
+      16201
     ],
     "Sections": [
       {
@@ -187,7 +218,7 @@
   },
   {
     "Stats": [
-      15995
+      16197
     ],
     "Sections": [
       {
@@ -218,7 +249,7 @@
   },
   {
     "Stats": [
-      15899
+      16105
     ],
     "Sections": [
       {
@@ -249,7 +280,7 @@
   },
   {
     "Stats": [
-      15984
+      16186
     ],
     "Sections": [
       {
@@ -280,7 +311,7 @@
   },
   {
     "Stats": [
-      15986
+      16188
     ],
     "Sections": [
       {
@@ -311,7 +342,7 @@
   },
   {
     "Stats": [
-      15987
+      16189
     ],
     "Sections": [
       {
@@ -342,7 +373,7 @@
   },
   {
     "Stats": [
-      15988
+      16190
     ],
     "Sections": [
       {
@@ -373,7 +404,7 @@
   },
   {
     "Stats": [
-      15985
+      16187
     ],
     "Sections": [
       {
@@ -404,7 +435,7 @@
   },
   {
     "Stats": [
-      15991
+      16193
     ],
     "Sections": [
       {
@@ -435,7 +466,7 @@
   },
   {
     "Stats": [
-      15992
+      16194
     ],
     "Sections": [
       {
@@ -466,7 +497,7 @@
   },
   {
     "Stats": [
-      15990
+      16192
     ],
     "Sections": [
       {
@@ -497,7 +528,7 @@
   },
   {
     "Stats": [
-      15989
+      16191
     ],
     "Sections": [
       {
@@ -528,7 +559,7 @@
   },
   {
     "Stats": [
-      15982
+      16184
     ],
     "Sections": [
       {
@@ -559,7 +590,7 @@
   },
   {
     "Stats": [
-      15983
+      16185
     ],
     "Sections": [
       {
@@ -590,7 +621,7 @@
   },
   {
     "Stats": [
-      15976
+      16178
     ],
     "Sections": [
       {
@@ -621,7 +652,7 @@
   },
   {
     "Stats": [
-      15979
+      16181
     ],
     "Sections": [
       {
@@ -652,7 +683,7 @@
   },
   {
     "Stats": [
-      15981
+      16183
     ],
     "Sections": [
       {
@@ -683,7 +714,7 @@
   },
   {
     "Stats": [
-      15980
+      16182
     ],
     "Sections": [
       {
@@ -714,7 +745,7 @@
   },
   {
     "Stats": [
-      15977
+      16179
     ],
     "Sections": [
       {
@@ -745,7 +776,7 @@
   },
   {
     "Stats": [
-      15978
+      16180
     ],
     "Sections": [
       {
@@ -776,7 +807,7 @@
   },
   {
     "Stats": [
-      17125
+      17331
     ],
     "Sections": [
       {
@@ -807,7 +838,7 @@
   },
   {
     "Stats": [
-      17141
+      17347
     ],
     "Sections": [
       {
@@ -838,7 +869,7 @@
   },
   {
     "Stats": [
-      17142
+      17348
     ],
     "Sections": [
       {
@@ -869,7 +900,7 @@
   },
   {
     "Stats": [
-      17143
+      17349
     ],
     "Sections": [
       {
@@ -900,7 +931,7 @@
   },
   {
     "Stats": [
-      17133
+      17339
     ],
     "Sections": [
       {
@@ -931,7 +962,7 @@
   },
   {
     "Stats": [
-      17120
+      17326
     ],
     "Sections": [
       {
@@ -962,7 +993,7 @@
   },
   {
     "Stats": [
-      17123
+      17329
     ],
     "Sections": [
       {
@@ -993,7 +1024,7 @@
   },
   {
     "Stats": [
-      17113
+      17319
     ],
     "Sections": [
       {
@@ -1024,7 +1055,7 @@
   },
   {
     "Stats": [
-      15900
+      16106
     ],
     "Sections": [
       {
@@ -1055,7 +1086,7 @@
   },
   {
     "Stats": [
-      17112
+      17318
     ],
     "Sections": [
       {
@@ -1086,7 +1117,7 @@
   },
   {
     "Stats": [
-      17137
+      17343
     ],
     "Sections": [
       {
@@ -1117,7 +1148,7 @@
   },
   {
     "Stats": [
-      17140
+      17346
     ],
     "Sections": [
       {
@@ -1148,7 +1179,7 @@
   },
   {
     "Stats": [
-      17136
+      17342
     ],
     "Sections": [
       {
@@ -1179,7 +1210,7 @@
   },
   {
     "Stats": [
-      17139
+      17345
     ],
     "Sections": [
       {
@@ -1210,7 +1241,7 @@
   },
   {
     "Stats": [
-      17134
+      17340
     ],
     "Sections": [
       {
@@ -1241,7 +1272,7 @@
   },
   {
     "Stats": [
-      17124
+      17330
     ],
     "Sections": [
       {
@@ -1272,7 +1303,7 @@
   },
   {
     "Stats": [
-      17135
+      17341
     ],
     "Sections": [
       {
@@ -1303,7 +1334,7 @@
   },
   {
     "Stats": [
-      17138
+      17344
     ],
     "Sections": [
       {
@@ -1334,38 +1365,7 @@
   },
   {
     "Stats": [
-      15975
-    ],
-    "Sections": [
-      {
-        "StatRanges": [
-          {
-            "Item1": 1,
-            "Item2": 1
-          }
-        ],
-        "StatConversionTypes": [
-          "NoFunction"
-        ],
-        "String": "Final Boss drops an additional Map Currency Item"
-      },
-      {
-        "StatRanges": [
-          {
-            "Item1": -2147483648,
-            "Item2": 2147483647
-          }
-        ],
-        "StatConversionTypes": [
-          "NoFunction"
-        ],
-        "String": "Final Boss drops {0} additional Map Currency Items"
-      }
-    ]
-  },
-  {
-    "Stats": [
-      15993
+      16195
     ],
     "Sections": [
       {
@@ -1396,7 +1396,7 @@
   },
   {
     "Stats": [
-      17118
+      17324
     ],
     "Sections": [
       {
@@ -1427,7 +1427,7 @@
   },
   {
     "Stats": [
-      17129
+      17335
     ],
     "Sections": [
       {
@@ -1458,7 +1458,7 @@
   },
   {
     "Stats": [
-      17130
+      17336
     ],
     "Sections": [
       {
@@ -1489,38 +1489,7 @@
   },
   {
     "Stats": [
-      17131
-    ],
-    "Sections": [
-      {
-        "StatRanges": [
-          {
-            "Item1": 1,
-            "Item2": 1
-          }
-        ],
-        "StatConversionTypes": [
-          "NoFunction"
-        ],
-        "String": "Final Boss drops {0} additional Orb of Horizons"
-      },
-      {
-        "StatRanges": [
-          {
-            "Item1": -2147483648,
-            "Item2": 2147483647
-          }
-        ],
-        "StatConversionTypes": [
-          "NoFunction"
-        ],
-        "String": "Final Boss drops {0} additional Orbs of Horizons"
-      }
-    ]
-  },
-  {
-    "Stats": [
-      17117
+      17323
     ],
     "Sections": [
       {
@@ -1551,7 +1520,7 @@
   },
   {
     "Stats": [
-      17119
+      17325
     ],
     "Sections": [
       {
@@ -1582,7 +1551,7 @@
   },
   {
     "Stats": [
-      17132
+      17338
     ],
     "Sections": [
       {
@@ -1613,7 +1582,7 @@
   },
   {
     "Stats": [
-      17121
+      17327
     ],
     "Sections": [
       {
@@ -1644,7 +1613,7 @@
   },
   {
     "Stats": [
-      15974
+      16177
     ],
     "Sections": [
       {
@@ -1675,7 +1644,7 @@
   },
   {
     "Stats": [
-      15973
+      16176
     ],
     "Sections": [
       {
@@ -1706,7 +1675,7 @@
   },
   {
     "Stats": [
-      15972
+      16175
     ],
     "Sections": [
       {
@@ -1737,7 +1706,7 @@
   },
   {
     "Stats": [
-      15929
+      16135
     ],
     "Sections": [
       {
@@ -1768,7 +1737,7 @@
   },
   {
     "Stats": [
-      15928
+      16134
     ],
     "Sections": [
       {
@@ -1799,7 +1768,7 @@
   },
   {
     "Stats": [
-      15927
+      16133
     ],
     "Sections": [
       {
@@ -1830,7 +1799,7 @@
   },
   {
     "Stats": [
-      15938
+      16144
     ],
     "Sections": [
       {
@@ -1861,7 +1830,7 @@
   },
   {
     "Stats": [
-      15937
+      16143
     ],
     "Sections": [
       {
@@ -1892,7 +1861,7 @@
   },
   {
     "Stats": [
-      15936
+      16142
     ],
     "Sections": [
       {
@@ -1923,7 +1892,7 @@
   },
   {
     "Stats": [
-      15953
+      16159
     ],
     "Sections": [
       {
@@ -1954,7 +1923,7 @@
   },
   {
     "Stats": [
-      15952
+      16158
     ],
     "Sections": [
       {
@@ -1985,7 +1954,7 @@
   },
   {
     "Stats": [
-      15951
+      16157
     ],
     "Sections": [
       {
@@ -2016,7 +1985,7 @@
   },
   {
     "Stats": [
-      15944
+      16150
     ],
     "Sections": [
       {
@@ -2047,7 +2016,7 @@
   },
   {
     "Stats": [
-      15943
+      16149
     ],
     "Sections": [
       {
@@ -2078,7 +2047,7 @@
   },
   {
     "Stats": [
-      15942
+      16148
     ],
     "Sections": [
       {
@@ -2109,7 +2078,7 @@
   },
   {
     "Stats": [
-      15956
+      16162
     ],
     "Sections": [
       {
@@ -2140,7 +2109,7 @@
   },
   {
     "Stats": [
-      15955
+      16161
     ],
     "Sections": [
       {
@@ -2171,7 +2140,7 @@
   },
   {
     "Stats": [
-      15954
+      16160
     ],
     "Sections": [
       {
@@ -2202,100 +2171,7 @@
   },
   {
     "Stats": [
-      15965
-    ],
-    "Sections": [
-      {
-        "StatRanges": [
-          {
-            "Item1": 1,
-            "Item2": 1
-          }
-        ],
-        "StatConversionTypes": [
-          "NoFunction"
-        ],
-        "String": "Final Boss drops {0} additional Gilded Harbinger Scarab"
-      },
-      {
-        "StatRanges": [
-          {
-            "Item1": -2147483648,
-            "Item2": 2147483647
-          }
-        ],
-        "StatConversionTypes": [
-          "NoFunction"
-        ],
-        "String": "Final Boss drops {0} additional Gilded Harbinger Scarabs"
-      }
-    ]
-  },
-  {
-    "Stats": [
-      15964
-    ],
-    "Sections": [
-      {
-        "StatRanges": [
-          {
-            "Item1": 1,
-            "Item2": 1
-          }
-        ],
-        "StatConversionTypes": [
-          "NoFunction"
-        ],
-        "String": "Final Boss drops {0} additional Polished Harbinger Scarab"
-      },
-      {
-        "StatRanges": [
-          {
-            "Item1": -2147483648,
-            "Item2": 2147483647
-          }
-        ],
-        "StatConversionTypes": [
-          "NoFunction"
-        ],
-        "String": "Final Boss drops {0} additional Polished Harbinger Scarabs"
-      }
-    ]
-  },
-  {
-    "Stats": [
-      15963
-    ],
-    "Sections": [
-      {
-        "StatRanges": [
-          {
-            "Item1": 1,
-            "Item2": 1
-          }
-        ],
-        "StatConversionTypes": [
-          "NoFunction"
-        ],
-        "String": "Final Boss drops {0} additional Rusted Harbinger Scarab"
-      },
-      {
-        "StatRanges": [
-          {
-            "Item1": -2147483648,
-            "Item2": 2147483647
-          }
-        ],
-        "StatConversionTypes": [
-          "NoFunction"
-        ],
-        "String": "Final Boss drops {0} additional Rusted Harbinger Scarabs"
-      }
-    ]
-  },
-  {
-    "Stats": [
-      15971
+      16174
     ],
     "Sections": [
       {
@@ -2326,7 +2202,7 @@
   },
   {
     "Stats": [
-      15970
+      16173
     ],
     "Sections": [
       {
@@ -2357,7 +2233,7 @@
   },
   {
     "Stats": [
-      15969
+      16172
     ],
     "Sections": [
       {
@@ -2388,7 +2264,7 @@
   },
   {
     "Stats": [
-      15950
+      16156
     ],
     "Sections": [
       {
@@ -2419,7 +2295,7 @@
   },
   {
     "Stats": [
-      15949
+      16155
     ],
     "Sections": [
       {
@@ -2450,7 +2326,7 @@
   },
   {
     "Stats": [
-      15948
+      16154
     ],
     "Sections": [
       {
@@ -2481,7 +2357,7 @@
   },
   {
     "Stats": [
-      15935
+      16141
     ],
     "Sections": [
       {
@@ -2512,7 +2388,7 @@
   },
   {
     "Stats": [
-      15934
+      16140
     ],
     "Sections": [
       {
@@ -2543,7 +2419,7 @@
   },
   {
     "Stats": [
-      15933
+      16139
     ],
     "Sections": [
       {
@@ -2574,7 +2450,7 @@
   },
   {
     "Stats": [
-      15968
+      16171
     ],
     "Sections": [
       {
@@ -2605,7 +2481,7 @@
   },
   {
     "Stats": [
-      15967
+      16170
     ],
     "Sections": [
       {
@@ -2636,7 +2512,7 @@
   },
   {
     "Stats": [
-      15966
+      16169
     ],
     "Sections": [
       {
@@ -2667,7 +2543,7 @@
   },
   {
     "Stats": [
-      15947
+      16153
     ],
     "Sections": [
       {
@@ -2698,7 +2574,7 @@
   },
   {
     "Stats": [
-      15946
+      16152
     ],
     "Sections": [
       {
@@ -2729,7 +2605,7 @@
   },
   {
     "Stats": [
-      15945
+      16151
     ],
     "Sections": [
       {
@@ -2760,7 +2636,7 @@
   },
   {
     "Stats": [
-      15962
+      16168
     ],
     "Sections": [
       {
@@ -2791,7 +2667,7 @@
   },
   {
     "Stats": [
-      15961
+      16167
     ],
     "Sections": [
       {
@@ -2822,7 +2698,7 @@
   },
   {
     "Stats": [
-      15960
+      16166
     ],
     "Sections": [
       {
@@ -2853,7 +2729,7 @@
   },
   {
     "Stats": [
-      15959
+      16165
     ],
     "Sections": [
       {
@@ -2884,7 +2760,7 @@
   },
   {
     "Stats": [
-      15958
+      16164
     ],
     "Sections": [
       {
@@ -2915,7 +2791,7 @@
   },
   {
     "Stats": [
-      15957
+      16163
     ],
     "Sections": [
       {
@@ -2946,7 +2822,7 @@
   },
   {
     "Stats": [
-      15902
+      16108
     ],
     "Sections": [
       {
@@ -2977,7 +2853,7 @@
   },
   {
     "Stats": [
-      15932
+      16138
     ],
     "Sections": [
       {
@@ -3008,7 +2884,7 @@
   },
   {
     "Stats": [
-      15931
+      16137
     ],
     "Sections": [
       {
@@ -3039,7 +2915,7 @@
   },
   {
     "Stats": [
-      15930
+      16136
     ],
     "Sections": [
       {
@@ -3070,7 +2946,7 @@
   },
   {
     "Stats": [
-      15941
+      16147
     ],
     "Sections": [
       {
@@ -3101,7 +2977,7 @@
   },
   {
     "Stats": [
-      15940
+      16146
     ],
     "Sections": [
       {
@@ -3132,7 +3008,7 @@
   },
   {
     "Stats": [
-      15939
+      16145
     ],
     "Sections": [
       {
@@ -3163,7 +3039,7 @@
   },
   {
     "Stats": [
-      15998
+      16200
     ],
     "Sections": [
       {
@@ -3194,7 +3070,7 @@
   },
   {
     "Stats": [
-      15994
+      16196
     ],
     "Sections": [
       {
@@ -3225,7 +3101,7 @@
   },
   {
     "Stats": [
-      15901
+      16107
     ],
     "Sections": [
       {
@@ -3256,7 +3132,7 @@
   },
   {
     "Stats": [
-      17127
+      17333
     ],
     "Sections": [
       {
@@ -3287,7 +3163,7 @@
   },
   {
     "Stats": [
-      17116
+      17322
     ],
     "Sections": [
       {
@@ -3318,7 +3194,7 @@
   },
   {
     "Stats": [
-      1037
+      1041
     ],
     "Sections": [
       {
@@ -3349,7 +3225,7 @@
   },
   {
     "Stats": [
-      1239
+      1246
     ],
     "Sections": [
       {
@@ -3380,7 +3256,7 @@
   },
   {
     "Stats": [
-      19796
+      20032
     ],
     "Sections": [
       {
@@ -3411,7 +3287,7 @@
   },
   {
     "Stats": [
-      19780
+      20017
     ],
     "Sections": [
       {
@@ -3442,7 +3318,7 @@
   },
   {
     "Stats": [
-      19795
+      20031
     ],
     "Sections": [
       {
@@ -3473,7 +3349,7 @@
   },
   {
     "Stats": [
-      19792
+      20028
     ],
     "Sections": [
       {
@@ -3504,7 +3380,7 @@
   },
   {
     "Stats": [
-      19784
+      20020
     ],
     "Sections": [
       {
@@ -3535,7 +3411,7 @@
   },
   {
     "Stats": [
-      19787
+      20023
     ],
     "Sections": [
       {
@@ -3566,7 +3442,7 @@
   },
   {
     "Stats": [
-      19777
+      20014
     ],
     "Sections": [
       {
@@ -3597,7 +3473,7 @@
   },
   {
     "Stats": [
-      19783
+      20019
     ],
     "Sections": [
       {
@@ -3628,7 +3504,7 @@
   },
   {
     "Stats": [
-      19779
+      20016
     ],
     "Sections": [
       {
@@ -3659,7 +3535,7 @@
   },
   {
     "Stats": [
-      19791
+      20027
     ],
     "Sections": [
       {
@@ -3690,7 +3566,7 @@
   },
   {
     "Stats": [
-      19794
+      20030
     ],
     "Sections": [
       {
@@ -3721,7 +3597,7 @@
   },
   {
     "Stats": [
-      19797
+      20033
     ],
     "Sections": [
       {
@@ -3752,38 +3628,7 @@
   },
   {
     "Stats": [
-      19781
-    ],
-    "Sections": [
-      {
-        "StatRanges": [
-          {
-            "Item1": 1,
-            "Item2": 1
-          }
-        ],
-        "StatConversionTypes": [
-          "NoFunction"
-        ],
-        "String": "Final Boss drops {0} additional Harbinger Scarab"
-      },
-      {
-        "StatRanges": [
-          {
-            "Item1": -2147483648,
-            "Item2": 2147483647
-          }
-        ],
-        "StatConversionTypes": [
-          "NoFunction"
-        ],
-        "String": "Final Boss drops {0} additional Harbinger Scarabs"
-      }
-    ]
-  },
-  {
-    "Stats": [
-      19789
+      20025
     ],
     "Sections": [
       {
@@ -3814,7 +3659,7 @@
   },
   {
     "Stats": [
-      19799
+      20035
     ],
     "Sections": [
       {
@@ -3845,7 +3690,7 @@
   },
   {
     "Stats": [
-      19775
+      20012
     ],
     "Sections": [
       {
@@ -3876,7 +3721,7 @@
   },
   {
     "Stats": [
-      19786
+      20022
     ],
     "Sections": [
       {
@@ -3907,7 +3752,7 @@
   },
   {
     "Stats": [
-      19778
+      20015
     ],
     "Sections": [
       {
@@ -3938,7 +3783,7 @@
   },
   {
     "Stats": [
-      19782
+      20018
     ],
     "Sections": [
       {
@@ -3969,7 +3814,7 @@
   },
   {
     "Stats": [
-      19788
+      20024
     ],
     "Sections": [
       {
@@ -4000,7 +3845,7 @@
   },
   {
     "Stats": [
-      20901
+      21150
     ],
     "Sections": [
       {
@@ -4031,7 +3876,7 @@
   },
   {
     "Stats": [
-      19790
+      20026
     ],
     "Sections": [
       {
@@ -4062,7 +3907,7 @@
   },
   {
     "Stats": [
-      19776
+      20013
     ],
     "Sections": [
       {
@@ -4093,7 +3938,7 @@
   },
   {
     "Stats": [
-      19785
+      20021
     ],
     "Sections": [
       {
@@ -4124,7 +3969,7 @@
   },
   {
     "Stats": [
-      19793
+      20029
     ],
     "Sections": [
       {
@@ -4155,7 +4000,7 @@
   },
   {
     "Stats": [
-      19798
+      20034
     ],
     "Sections": [
       {
@@ -4186,7 +4031,7 @@
   },
   {
     "Stats": [
-      15779
+      15993
     ],
     "Sections": [
       {
@@ -4205,7 +4050,7 @@
   },
   {
     "Stats": [
-      16046
+      16248
     ],
     "Sections": [
       {
@@ -4224,7 +4069,7 @@
   },
   {
     "Stats": [
-      15780
+      15994
     ],
     "Sections": [
       {
@@ -4243,7 +4088,7 @@
   },
   {
     "Stats": [
-      15783
+      15997
     ],
     "Sections": [
       {
@@ -4262,7 +4107,7 @@
   },
   {
     "Stats": [
-      15782
+      15996
     ],
     "Sections": [
       {
@@ -4281,7 +4126,7 @@
   },
   {
     "Stats": [
-      15781
+      15995
     ],
     "Sections": [
       {

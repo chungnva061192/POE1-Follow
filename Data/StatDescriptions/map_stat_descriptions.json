@@ -1,8 +1,8 @@
 [
   {
     "Stats": [
-      3254,
-      3255
+      3296,
+      3297
     ],
     "Sections": [
       {
@@ -26,7 +26,7 @@
   },
   {
     "Stats": [
-      1040
+      1041
     ],
     "Sections": [
       {
@@ -57,7 +57,7 @@
   },
   {
     "Stats": [
-      1244
+      1246
     ],
     "Sections": [
       {
@@ -88,7 +88,7 @@
   },
   {
     "Stats": [
-      3918
+      3960
     ],
     "Sections": [
       {
@@ -107,7 +107,7 @@
   },
   {
     "Stats": [
-      1025
+      1026
     ],
     "Sections": [
       {
@@ -138,7 +138,7 @@
   },
   {
     "Stats": [
-      1363
+      1365
     ],
     "Sections": [
       {
@@ -157,7 +157,7 @@
   },
   {
     "Stats": [
-      2530
+      2570
     ],
     "Sections": [
       {
@@ -176,7 +176,7 @@
   },
   {
     "Stats": [
-      10664
+      10754
     ],
     "Sections": [
       {
@@ -207,7 +207,7 @@
   },
   {
     "Stats": [
-      10660
+      10750
     ],
     "Sections": [
       {
@@ -238,7 +238,7 @@
   },
   {
     "Stats": [
-      10665
+      10755
     ],
     "Sections": [
       {
@@ -269,7 +269,7 @@
   },
   {
     "Stats": [
-      10661
+      10751
     ],
     "Sections": [
       {
@@ -300,7 +300,7 @@
   },
   {
     "Stats": [
-      10662
+      10752
     ],
     "Sections": [
       {
@@ -331,7 +331,7 @@
   },
   {
     "Stats": [
-      10663
+      10753
     ],
     "Sections": [
       {
@@ -362,7 +362,7 @@
   },
   {
     "Stats": [
-      10666
+      10756
     ],
     "Sections": [
       {
@@ -393,7 +393,7 @@
   },
   {
     "Stats": [
-      10667
+      10757
     ],
     "Sections": [
       {
@@ -424,7 +424,7 @@
   },
   {
     "Stats": [
-      10668
+      10758
     ],
     "Sections": [
       {
@@ -443,7 +443,7 @@
   },
   {
     "Stats": [
-      16120
+      16215
     ],
     "Sections": [
       {
@@ -462,7 +462,26 @@
   },
   {
     "Stats": [
-      20753
+      22332
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Final Pack spawns a Reflecting Mist on Death"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20868
     ],
     "Sections": [
       {
@@ -481,7 +500,7 @@
   },
   {
     "Stats": [
-      18272
+      18371
     ],
     "Sections": [
       {
@@ -500,7 +519,7 @@
   },
   {
     "Stats": [
-      19785
+      19901
     ],
     "Sections": [
       {
@@ -519,7 +538,7 @@
   },
   {
     "Stats": [
-      13918
+      14037
     ],
     "Sections": [
       {
@@ -550,7 +569,38 @@
   },
   {
     "Stats": [
-      19769
+      22475
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Delirium Reward Types in your Maps have a {0}% chance to gain +1 to count on defeating a Unique Delirium Boss"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 100
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Delirium Reward Types in your Maps gain +1 to count on defeating a Unique Delirium Boss"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19885
     ],
     "Sections": [
       {
@@ -569,7 +619,7 @@
   },
   {
     "Stats": [
-      13804
+      13923
     ],
     "Sections": [
       {
@@ -600,7 +650,7 @@
   },
   {
     "Stats": [
-      13745
+      13864
     ],
     "Sections": [
       {
@@ -655,7 +705,7 @@
   },
   {
     "Stats": [
-      13734
+      13853
     ],
     "Sections": [
       {
@@ -686,7 +736,7 @@
   },
   {
     "Stats": [
-      21016
+      21137
     ],
     "Sections": [
       {
@@ -717,7 +767,7 @@
   },
   {
     "Stats": [
-      19779
+      19895
     ],
     "Sections": [
       {
@@ -736,7 +786,7 @@
   },
   {
     "Stats": [
-      20116
+      20229
     ],
     "Sections": [
       {
@@ -755,7 +805,7 @@
   },
   {
     "Stats": [
-      19834
+      19950
     ],
     "Sections": [
       {
@@ -774,7 +824,7 @@
   },
   {
     "Stats": [
-      13807
+      13926
     ],
     "Sections": [
       {
@@ -805,7 +855,38 @@
   },
   {
     "Stats": [
-      13763
+      22485
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Interrogated Immortal Syndicate targets in Area have a {0}%\nchance to not lose Rank upon completing Interrogation"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 100
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Interrogated Immortal Syndicate targets in Area do not lose Rank upon completing Interrogation"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13882
     ],
     "Sections": [
       {
@@ -836,7 +917,7 @@
   },
   {
     "Stats": [
-      19762
+      19878
     ],
     "Sections": [
       {
@@ -855,7 +936,38 @@
   },
   {
     "Stats": [
-      19763
+      16666
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Beyond Portals in Area have {0}% increased chance to spawn a Unique Boss"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Beyond Portals in Area have {0}% reduced chance to spawn a Unique Boss"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19879
     ],
     "Sections": [
       {
@@ -886,7 +998,7 @@
   },
   {
     "Stats": [
-      19760
+      19876
     ],
     "Sections": [
       {
@@ -905,7 +1017,7 @@
   },
   {
     "Stats": [
-      13565
+      13685
     ],
     "Sections": [
       {
@@ -936,7 +1048,7 @@
   },
   {
     "Stats": [
-      19761
+      19877
     ],
     "Sections": [
       {
@@ -967,7 +1079,26 @@
   },
   {
     "Stats": [
-      19772
+      22474
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Beyond Bosses Spawned in Area are accompanied by Beyond Bosses of other Factions"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19888
     ],
     "Sections": [
       {
@@ -998,7 +1129,7 @@
   },
   {
     "Stats": [
-      19770
+      19886
     ],
     "Sections": [
       {
@@ -1017,7 +1148,7 @@
   },
   {
     "Stats": [
-      10443
+      10533
     ],
     "Sections": [
       {
@@ -1048,7 +1179,7 @@
   },
   {
     "Stats": [
-      19771
+      19887
     ],
     "Sections": [
       {
@@ -1067,7 +1198,7 @@
   },
   {
     "Stats": [
-      13609
+      13729
     ],
     "Sections": [
       {
@@ -1098,7 +1229,7 @@
   },
   {
     "Stats": [
-      20572
+      20685
     ],
     "Sections": [
       {
@@ -1117,7 +1248,7 @@
   },
   {
     "Stats": [
-      20573
+      20686
     ],
     "Sections": [
       {
@@ -1136,7 +1267,26 @@
   },
   {
     "Stats": [
-      20571
+      22713
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "A Map Boss will be accompanied by a random Shaper Guardian, Elder Guardian, Conqueror or Synthesis Boss"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20684
     ],
     "Sections": [
       {
@@ -1155,7 +1305,7 @@
   },
   {
     "Stats": [
-      15583
+      15703
     ],
     "Sections": [
       {
@@ -1186,7 +1336,45 @@
   },
   {
     "Stats": [
-      15584
+      22205
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Breach Hives in Area lead to a Hive Fortress"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22550
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Ailith's skills in Area instead enrage the Hive, increasing the Difficulty\nand Reward of subsequent waves"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      15704
     ],
     "Sections": [
       {
@@ -1217,7 +1405,7 @@
   },
   {
     "Stats": [
-      19735
+      19851
     ],
     "Sections": [
       {
@@ -1236,7 +1424,7 @@
   },
   {
     "Stats": [
-      20649
+      20763
     ],
     "Sections": [
       {
@@ -1255,7 +1443,7 @@
   },
   {
     "Stats": [
-      20569
+      20682
     ],
     "Sections": [
       {
@@ -1274,7 +1462,7 @@
   },
   {
     "Stats": [
-      19746
+      19862
     ],
     "Sections": [
       {
@@ -1293,7 +1481,319 @@
   },
   {
     "Stats": [
-      20449
+      22326
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Area contains {0} additional packs of Zarokh monsters"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22330
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Area contains an additional Golden Volatile"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Area contains {0} additional Golden Volatiles"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13807
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains an Abyssal Depths"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      5564
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains an additional unstable Breach"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains {0} additional unstable Breaches"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22674
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains a Breach"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      21720
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains a Breach Hive"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22323
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Area contains an additional Bronze Djinn's Cache"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Area contains {0} additional Bronze Djinn's Caches"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22325
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Area contains an additional Golden Djinn's Cache"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Area contains {0} additional Golden Djinn's Caches"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22324
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Area contains an additional Silver Djinn's Cache"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Area contains {0} additional Silver Djinn's Caches"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22331
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Area contains Faridun Miniboss"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22472
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area is inhabited by an additional Exceptional Rogue Exile"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area is inhabited by {0} additional Exceptional Rogue Exiles"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22318
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% more Currency found in Area"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% less Currency found in Area"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20562
     ],
     "Sections": [
       {
@@ -1324,7 +1824,7 @@
   },
   {
     "Stats": [
-      18136
+      18235
     ],
     "Sections": [
       {
@@ -1343,7 +1843,7 @@
   },
   {
     "Stats": [
-      19754
+      19870
     ],
     "Sections": [
       {
@@ -1362,7 +1862,7 @@
   },
   {
     "Stats": [
-      20612
+      20726
     ],
     "Sections": [
       {
@@ -1393,7 +1893,7 @@
   },
   {
     "Stats": [
-      19756
+      19872
     ],
     "Sections": [
       {
@@ -1424,7 +1924,7 @@
   },
   {
     "Stats": [
-      19755
+      19871
     ],
     "Sections": [
       {
@@ -1443,7 +1943,7 @@
   },
   {
     "Stats": [
-      20570
+      20683
     ],
     "Sections": [
       {
@@ -1462,7 +1962,7 @@
   },
   {
     "Stats": [
-      17419
+      17518
     ],
     "Sections": [
       {
@@ -1493,7 +1993,7 @@
   },
   {
     "Stats": [
-      13878
+      13997
     ],
     "Sections": [
       {
@@ -1524,7 +2024,7 @@
   },
   {
     "Stats": [
-      19784
+      19900
     ],
     "Sections": [
       {
@@ -1543,7 +2043,7 @@
   },
   {
     "Stats": [
-      20484
+      20597
     ],
     "Sections": [
       {
@@ -1562,7 +2062,7 @@
   },
   {
     "Stats": [
-      20114
+      20227
     ],
     "Sections": [
       {
@@ -1581,7 +2081,38 @@
   },
   {
     "Stats": [
-      19781
+      22476
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Logbooks found in Area have a {0}% chance to drop with 4 Implicits"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 100
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Logbooks found in Area always have 4 Implicits"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19897
     ],
     "Sections": [
       {
@@ -1600,7 +2131,26 @@
   },
   {
     "Stats": [
-      19780
+      22477
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Expedition Monsters gain increased Difficulty and Reward for each Remnant detonated"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19896
     ],
     "Sections": [
       {
@@ -1631,7 +2181,38 @@
   },
   {
     "Stats": [
-      19782
+      22322
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% more Rarity of Items found in this Area"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% less Rarity of Items found in this Area"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19898
     ],
     "Sections": [
       {
@@ -1662,7 +2243,7 @@
   },
   {
     "Stats": [
-      19831
+      19947
     ],
     "Sections": [
       {
@@ -1681,7 +2262,7 @@
   },
   {
     "Stats": [
-      18132
+      18231
     ],
     "Sections": [
       {
@@ -1700,7 +2281,57 @@
   },
   {
     "Stats": [
-      19832
+      20912
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Gold found in this Area"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Gold found in this Area"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22409
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Area has patches of Oasis Ground"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19948
     ],
     "Sections": [
       {
@@ -1719,7 +2350,7 @@
   },
   {
     "Stats": [
-      19752
+      19868
     ],
     "Sections": [
       {
@@ -1750,7 +2381,7 @@
   },
   {
     "Stats": [
-      20770
+      20885
     ],
     "Sections": [
       {
@@ -1769,7 +2400,7 @@
   },
   {
     "Stats": [
-      19753
+      19869
     ],
     "Sections": [
       {
@@ -1788,7 +2419,7 @@
   },
   {
     "Stats": [
-      14106
+      14225
     ],
     "Sections": [
       {
@@ -1819,7 +2450,7 @@
   },
   {
     "Stats": [
-      19745
+      19861
     ],
     "Sections": [
       {
@@ -1838,7 +2469,7 @@
   },
   {
     "Stats": [
-      20070
+      20183
     ],
     "Sections": [
       {
@@ -1857,7 +2488,7 @@
   },
   {
     "Stats": [
-      19747
+      19863
     ],
     "Sections": [
       {
@@ -1876,7 +2507,7 @@
   },
   {
     "Stats": [
-      15903
+      16009
     ],
     "Sections": [
       {
@@ -1895,7 +2526,7 @@
   },
   {
     "Stats": [
-      15845
+      15954
     ],
     "Sections": [
       {
@@ -1914,7 +2545,7 @@
   },
   {
     "Stats": [
-      5800
+      5858
     ],
     "Sections": [
       {
@@ -1945,7 +2576,38 @@
   },
   {
     "Stats": [
-      13795
+      22480
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Legion Chests in Area have a {0}% chance to spread their Rewards to\nLegion Monsters they release from stasis when they are broken out\nLegion Monsters that have gained Rewards have increased Difficulty"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 100
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Legion Chests in Area spread their Rewards to\nLegion Monsters they release from stasis when they are broken out\nLegion Monsters that have gained Rewards have increased Difficulty"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13914
     ],
     "Sections": [
       {
@@ -1976,7 +2638,7 @@
   },
   {
     "Stats": [
-      19775
+      19891
     ],
     "Sections": [
       {
@@ -1995,7 +2657,7 @@
   },
   {
     "Stats": [
-      19776
+      19892
     ],
     "Sections": [
       {
@@ -2014,7 +2676,7 @@
   },
   {
     "Stats": [
-      19842
+      19958
     ],
     "Sections": [
       {
@@ -2033,7 +2695,38 @@
   },
   {
     "Stats": [
-      20447
+      22321
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% more Maps found in Area"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% less Maps found in Area"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20560
     ],
     "Sections": [
       {
@@ -2064,7 +2757,7 @@
   },
   {
     "Stats": [
-      8799
+      8874
     ],
     "Sections": [
       {
@@ -2083,7 +2776,7 @@
   },
   {
     "Stats": [
-      20528
+      20641
     ],
     "Sections": [
       {
@@ -2114,7 +2807,7 @@
   },
   {
     "Stats": [
-      13744
+      13863
     ],
     "Sections": [
       {
@@ -2145,7 +2838,69 @@
   },
   {
     "Stats": [
-      20740
+      22317
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] {0}% chance for Enemies to Revive on Death"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Enemies Revive on Death"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22408
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Monsters in Area have {0}% chance to spawn a Golden Volatile on death"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "DNT] Monsters in Area spawn a Golden Volatile on death"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20855
     ],
     "Sections": [
       {
@@ -2176,7 +2931,7 @@
   },
   {
     "Stats": [
-      20746
+      20861
     ],
     "Sections": [
       {
@@ -2207,7 +2962,7 @@
   },
   {
     "Stats": [
-      9899
+      9983
     ],
     "Sections": [
       {
@@ -2238,7 +2993,7 @@
   },
   {
     "Stats": [
-      9898
+      9982
     ],
     "Sections": [
       {
@@ -2269,7 +3024,7 @@
   },
   {
     "Stats": [
-      20781
+      20896
     ],
     "Sections": [
       {
@@ -2300,7 +3055,76 @@
   },
   {
     "Stats": [
-      20117
+      22333
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Players in Area cannot Die"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22337
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Players in Area have Soul Eater"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20230
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Enemies killed by Players in Area have a {0}% chance to Explode, dealing a tenth of their maximum Life as Damage of a Random Element"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Enemies killed by Players in Area Explode, dealing a tenth of their maximum Life as Damage of a Random Element"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20230
     ],
     "Sections": [
       {
@@ -2319,7 +3143,7 @@
   },
   {
     "Stats": [
-      20118
+      20231
     ],
     "Sections": [
       {
@@ -2338,7 +3162,7 @@
   },
   {
     "Stats": [
-      18142
+      18241
     ],
     "Sections": [
       {
@@ -2357,7 +3181,7 @@
   },
   {
     "Stats": [
-      19773
+      19889
     ],
     "Sections": [
       {
@@ -2388,7 +3212,7 @@
   },
   {
     "Stats": [
-      20520
+      20633
     ],
     "Sections": [
       {
@@ -2407,7 +3231,7 @@
   },
   {
     "Stats": [
-      13725
+      13844
     ],
     "Sections": [
       {
@@ -2438,7 +3262,7 @@
   },
   {
     "Stats": [
-      19740
+      19856
     ],
     "Sections": [
       {
@@ -2457,7 +3281,7 @@
   },
   {
     "Stats": [
-      20115
+      20228
     ],
     "Sections": [
       {
@@ -2476,7 +3300,7 @@
   },
   {
     "Stats": [
-      20725
+      20840
     ],
     "Sections": [
       {
@@ -2495,7 +3319,7 @@
   },
   {
     "Stats": [
-      14101
+      14220
     ],
     "Sections": [
       {
@@ -2526,7 +3350,7 @@
   },
   {
     "Stats": [
-      15828
+      15937
     ],
     "Sections": [
       {
@@ -2557,7 +3381,7 @@
   },
   {
     "Stats": [
-      19744
+      19860
     ],
     "Sections": [
       {
@@ -2588,7 +3412,38 @@
   },
   {
     "Stats": [
-      19737
+      22481
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rituals in Area contain an additional Rare Itemised Corpse Monster"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rituals in Area contain {0} additional Rare Itemised Corpse Monsters"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19853
     ],
     "Sections": [
       {
@@ -2619,7 +3474,7 @@
   },
   {
     "Stats": [
-      13801
+      13920
     ],
     "Sections": [
       {
@@ -2650,7 +3505,38 @@
   },
   {
     "Stats": [
-      20448
+      22320
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% more Scarabs found in Area"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% less Scarabs found in Area"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20561
     ],
     "Sections": [
       {
@@ -2681,7 +3567,7 @@
   },
   {
     "Stats": [
-      19825
+      19941
     ],
     "Sections": [
       {
@@ -2712,7 +3598,7 @@
   },
   {
     "Stats": [
-      19742
+      19858
     ],
     "Sections": [
       {
@@ -2731,7 +3617,7 @@
   },
   {
     "Stats": [
-      19741
+      19857
     ],
     "Sections": [
       {
@@ -2750,7 +3636,7 @@
   },
   {
     "Stats": [
-      13573
+      13693
     ],
     "Sections": [
       {
@@ -2769,7 +3655,7 @@
   },
   {
     "Stats": [
-      19738
+      19854
     ],
     "Sections": [
       {
@@ -2788,7 +3674,7 @@
   },
   {
     "Stats": [
-      19739
+      19855
     ],
     "Sections": [
       {
@@ -2807,7 +3693,7 @@
   },
   {
     "Stats": [
-      19315
+      19430
     ],
     "Sections": [
       {
@@ -2826,7 +3712,7 @@
   },
   {
     "Stats": [
-      19314
+      19429
     ],
     "Sections": [
       {
@@ -2845,7 +3731,7 @@
   },
   {
     "Stats": [
-      19325
+      19440
     ],
     "Sections": [
       {
@@ -2864,7 +3750,7 @@
   },
   {
     "Stats": [
-      19326
+      19441
     ],
     "Sections": [
       {
@@ -2883,7 +3769,7 @@
   },
   {
     "Stats": [
-      19324
+      19439
     ],
     "Sections": [
       {
@@ -2902,7 +3788,7 @@
   },
   {
     "Stats": [
-      19313
+      19428
     ],
     "Sections": [
       {
@@ -2921,7 +3807,7 @@
   },
   {
     "Stats": [
-      19316
+      19431
     ],
     "Sections": [
       {
@@ -2940,7 +3826,7 @@
   },
   {
     "Stats": [
-      19749
+      19865
     ],
     "Sections": [
       {
@@ -2971,7 +3857,7 @@
   },
   {
     "Stats": [
-      15526
+      15647
     ],
     "Sections": [
       {
@@ -3002,7 +3888,38 @@
   },
   {
     "Stats": [
-      19758
+      22484
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Tormented Spirits in Area have a {0}% chance to be set free when\nPossessed Monsters are slain and dig up a Possessed Monster"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 100
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Tormented Spirits in Area are set free when Possessed Monsters are slain and dig up a Possessed Monster"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19874
     ],
     "Sections": [
       {
@@ -3021,7 +3938,7 @@
   },
   {
     "Stats": [
-      19759
+      19875
     ],
     "Sections": [
       {
@@ -3040,7 +3957,7 @@
   },
   {
     "Stats": [
-      20767
+      20882
     ],
     "Sections": [
       {
@@ -3053,13 +3970,13 @@
         "StatConversionTypes": [
           "NoFunction"
         ],
-        "String": "Blight Encounters in Area have one Blighted Chest\nBlight Encounters in Area spawn many more waves of Enemies\nBlighted Chests in Area grow larger and more rewarding as you defeat Blighted Enemies"
+        "String": "Blight Encounters in Area have one Blighted Chest\nBlight Encounters in Area spawn additional waves of Enemies\nBlighted Chests in Area grow larger and more rewarding as you defeat Blighted Enemies"
       }
     ]
   },
   {
     "Stats": [
-      19768
+      19884
     ],
     "Sections": [
       {
@@ -3078,7 +3995,7 @@
   },
   {
     "Stats": [
-      19766
+      19882
     ],
     "Sections": [
       {
@@ -3097,7 +4014,7 @@
   },
   {
     "Stats": [
-      19767
+      19883
     ],
     "Sections": [
       {
@@ -3116,7 +4033,7 @@
   },
   {
     "Stats": [
-      19736
+      19852
     ],
     "Sections": [
       {
@@ -3147,7 +4064,7 @@
   },
   {
     "Stats": [
-      20532
+      20645
     ],
     "Sections": [
       {
@@ -3178,7 +4095,7 @@
   },
   {
     "Stats": [
-      19777
+      19893
     ],
     "Sections": [
       {
@@ -3209,7 +4126,7 @@
   },
   {
     "Stats": [
-      20531
+      20644
     ],
     "Sections": [
       {
@@ -3240,7 +4157,7 @@
   },
   {
     "Stats": [
-      20630
+      20744
     ],
     "Sections": [
       {
@@ -3271,7 +4188,7 @@
   },
   {
     "Stats": [
-      20632
+      20746
     ],
     "Sections": [
       {
@@ -3302,7 +4219,7 @@
   },
   {
     "Stats": [
-      20631
+      20745
     ],
     "Sections": [
       {
@@ -3333,7 +4250,26 @@
   },
   {
     "Stats": [
-      13726
+      22492
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Unique Monsters in Area Enrage on Low Life"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13845
     ],
     "Sections": [
       {
@@ -3364,7 +4300,26 @@
   },
   {
     "Stats": [
-      15842
+      22205
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Unstable Breaches in Area contain a Boss"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      15951
     ],
     "Sections": [
       {
@@ -3383,7 +4338,7 @@
   },
   {
     "Stats": [
-      15844
+      15953
     ],
     "Sections": [
       {
@@ -3402,7 +4357,26 @@
   },
   {
     "Stats": [
-      21015
+      22478
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters guarding Ore Deposits have increased Difficulty and Reward and\nOre Deposits contain 15% increased Ore for each Ore Deposit completed in Area"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      21136
     ],
     "Sections": [
       {
@@ -3421,7 +4395,7 @@
   },
   {
     "Stats": [
-      20671
+      20786
     ],
     "Sections": [
       {
@@ -3452,7 +4426,7 @@
   },
   {
     "Stats": [
-      20705
+      20820
     ],
     "Sections": [
       {

@@ -1,3 +1,3 @@
+.vs*
+*.dll.config
 *.[Pp]db
-/Logs/
-/Plugins/Temp/
