@@ -281,6 +281,17 @@
       }
     }
   },
+  "UseSubInventoryItems": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
   "EnableVSync": {
     "Value": false,
     "AttachedHotkey": {
@@ -313,7 +324,7 @@
       "Value": "unifont:16"
     },
     "FontGlyphRange": {
-      "Value": "Cyrillic"
+      "Value": "Vietnamese"
     },
     "ApplySelectedFontGlobally": {
       "Value": true,
@@ -427,6 +438,39 @@
       }
     },
     "BypassLoginRequirement": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "AttachToFirstFreeProcess": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "DetectOtherLoaderProcesses": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "CollectSleepingEntities": {
       "Value": false,
       "AttachedHotkey": {
         "ValueV2": {
