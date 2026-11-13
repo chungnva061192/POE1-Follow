@@ -78,12 +78,12 @@
         <option>transformxaml</option>
         <file dir="C:\Phan-Mem-Setup\Bot\POE 1" name="UniqueFinder.dll" />
       </inputassembly>
-      <inputassembly refid="08768bde-af44-4827-9f5c-e6b31be163d6">
+      <inputassembly refid="5df797a9-f64d-4761-ab8e-fd66f99dddfd">
         <option>honoroas</option>
         <option>stripoa</option>
         <option>library</option>
         <option>transformxaml</option>
-        <file dir="C:\Phan-Mem-Setup\Bot\POE 1" name="PostMessage.dll" />
+        <file dir="C:\Phan-Mem-Setup\Bot\POE 1" name="AutoFlask.dll" />
       </inputassembly>
     </asmlist>
   </input>
